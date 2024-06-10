@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    gap: "10rem";
+}
+
+img {
+    width: 5rem;
+    height: 5rem;
+}
+
+nav {
+    display: flex;
+    gap: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel delicious red",
+    "link_imagen":"img/jeanie-de-klerk-WddjbJWlQ34-unsplash.jpg",
+    "descripcion": "Un pastel delicioso con un toque de rojo vibrante. Esta tarta está hecha con capas de esponjoso bizcocho de vainilla teñido de rojo, relleno de suave crema de queso y decorado con glaseado de crema batida. Ideal para cualquier ocasión especial.",
+    "descripcion_resumida": "Pastel de vainilla rojo con crema de queso y glaseado.",
+    "precio": 79900,
+    "categoria": "Tradicional",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Pastel red label",
+    "link_imagen": "img/bruce-tang-fxodEwTvn_0-unsplash.jpg",
+    "descripcion": "Pastel de etiqueta roja con sabor único. Este pastel combina capas de chocolate amargo con un relleno de ganache de chocolate blanco, cubierto con glaseado de mantequilla y adornado con virutas de chocolate. Perfecto para los amantes del chocolate.",
+    "descripcion_resumida": "Pastel de chocolate amargo con ganache blanco y glaseado de mantequilla.",
+    "precio": 85900,
+    "categoria": "Tradicional",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Tort de frutos rojos",
+    "link_imagen": "img/dim-hou-k4vY9_iBVXY-unsplash.jpg",
+    "descripcion": "Delicioso pastel con una mezcla de frutos rojos frescos. Elaborado con un bizcocho de vainilla ligero, relleno de crema de mascarpone y cubierto con una generosa cantidad de fresas, frambuesas y arándanos. Una opción fresca y deliciosa.",
+    "descripcion_resumida": "Pastel de vainilla con crema de mascarpone y frutos rojos.",
+    "precio": 70900,
+    "categoria": "Tradicional",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Pastel chocolate",
+    "link_imagen": "img/njegos-k-OSSkMJYU8Wc-unsplash.jpg",
+    "descripcion": "Pastel clásico de chocolate. Con tres capas de esponjoso bizcocho de chocolate, relleno de mousse de chocolate y cubierto con glaseado de chocolate oscuro. Un placer indulgente para los amantes del chocolate.",
+    "descripcion_resumida": "Pastel de chocolate con mousse y glaseado de chocolate oscuro.",
+    "precio": 74900,
+    "categoria": "Tradicional",
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "nombre": "Pastel vainilla crema",
+    "link_imagen": "img/jordane-mathieu-cjzT9rpAy2c-unsplash.jpg",
+    "descripcion": "Pastel tradicional de vainilla con crema. Este pastel es perfecto para cualquier celebración, con su suave bizcocho de vainilla, relleno de crema pastelera y cubierto con una fina capa de glaseado de vainilla. Decorado con flores de crema y perlas comestibles.",
+    "descripcion_resumida": "Pastel dpara hacer una parte del navbar que se despligue se debe hacer con react o con css o otra cosa?e vainilla con crema pastelera y glaseado de vainilla.",
+    "precio": 82900,
+    "categoria": "Tradicional",
+    "stock": 9
+  },
+  {
+    "id": 6,
+    "nombre": "Torta de cereza",
+    "link_imagen": "img/jeanie-de-klerk-WddjbJWlQ34-unsplash.jpg",
+    "descripcion": "Torta refrescante con cerezas frescas. Hecha con un bizcocho ligero de almendra, relleno de crema chantilly y una compota de cerezas ácidas, esta torta es perfecta para los días cálidos de verano. Decorada con cerezas frescas y hojas de menta.",
+    "descripcion_resumida": "Torta de almendra con crema chantilly y compota de cerezas.",
+    "precio": 89900,
+    "categoria": "Refrigeradas",
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "nombre": "Tarta de chocolate",
+    "link_imagen": "img/ruth-georgiev-dvmiNXMh9d8-unsplash.jpg",
+    "descripcion": "Tarta deliciosa de chocolate. Esta tarta combina una base de galleta crujiente con un relleno de chocolate cremoso y una capa de ganache de chocolate negro. Adornada con virutas de chocolate y un toque de sal marina para realzar su sabor.",
+    "descripcion_resumida": "Tarta de galleta con relleno de chocolate y ganache.",
+    "precio": 93900,
+    "categoria": "Refrigeradas",
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "nombre": "Pastel de alfajor",
+    "link_imagen": "img/velizar-ivanov-rXB9YjOQX8I-unsplash.jpg",
+    "descripcion": "Pastel inspirado en el clásico alfajor. Con capas de bizcocho de maicena, dulce de leche y una cobertura de coco rallado, este pastel es un homenaje a la famosa galleta argentina. Ideal para los amantes de los sabores tradicionales sudamericanos.",
+    "descripcion_resumida": "Pastel de maicena con dulce de leche y coco rallado.",
+    "precio": 99900,
+    "categoria": "Refrigeradas",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "nombre": "Pastel de belém",
+    "link_imagen": "img/md-mahdi-cu1-a9LSmqo-unsplash.jpg",
+    "descripcion": "Pastel tradicional de Belém. Esta tarta está hecha con una base de hojaldre crujiente y un relleno de crema pastelera con un toque de canela y limón. Inspirado en los famosos pasteles de nata portugueses.",
+    "descripcion_resumida": "Pastel de hojaldre con crema pastelera y toque de canela.",
+    "precio": 85900,
+    "categoria": "Refrigeradas",
+    "stock": 6
+  },
+  {
+    "id": 10,
+    "nombre": "Tarta de limón",
+    "link_imagen": "img/nathalie-klippert-WneKpdbrT-4-unsplash.jpg",
+    "descripcion": "Tarta refrescante de limón. Con una base de galleta crujiente y un relleno cremoso de limón, esta tarta es perfecta para los amantes de los sabores cítricos. Decorada con merengue tostado y ralladura de limón.",
+    "descripcion_resumida": "Tarta de galleta con relleno de limón y merengue tostado.",
+    "precio": 82900,
+    "categoria": "Refrigeradas",
+    "stock": 14
+  },
+  {
+    "id": 11,
+    "nombre": "Postre raspberry dessert",
+    "link_imagen": "img/bohdan-stocek-YBYN5X26duQ-unsplash.jpg",
+    "descripcion": "Postre delicioso de frambuesa. Este postre combina una base de galleta de mantequilla con una mousse de frambuesa ligera y una cobertura de gelatina de frambuesa. Decorado con frambuesas frescas y hojas de menta. Ideal para cualquier ocasión.",
+    "descripcion_resumida": "Postre de frambuesa con base de galleta y mousse ligera.",
+    "precio": 33900,
+    "categoria": "Postres",
+    "stock": 20
+  },
+  {
+    "id": 12,
+    "nombre": "Postre de frutas",
+    "link_imagen": "img/bhuwan-bansal-8Kdd-dxy3CA-unsplash.jpg",
+    "descripcion": "Postre saludable de frutas variadas. Una mezcla de frutas frescas como fresas, kiwi, mango y uvas, servidas con una crema ligera de yogur y miel. Perfecto para una opción dulce pero saludable.",
+    "descripcion_resumida": "Mezcla de frutas frescas con crema de yogur y miel.",
+    "precio": 29900,
+    "categoria": "Postres",
+    "stock": 25
+  },
+  {
+    "id": 13,
+    "nombre": "Cupcakes",
+    "link_imagen": "img/courtney-cook-CIKN2MfSp1Q-unsplash.jpg",
+    "descripcion": "Cupcakes variados y decorados. Estos pequeños pasteles vienen en varios sabores como vainilla, chocolate y red velvet, cada uno decorado con un glaseado de crema de mantequilla y diferentes toppings. Perfectos para fiestas y celebraciones.",
+    "descripcion_resumida": "Cupcakes de varios sabores con glaseado de mantequilla.",
+    "precio": 22900,
+    "categoria": "Postres",
+    "stock": 30
+  },
+  {
+    "id": 14,
+    "nombre": "Flan de chocolate",
+    "link_imagen": "img/waldemar-H1F-IZ2frCY-unsplash.jpg",
+    "descripcion": "Flan suave de chocolate. Este postre clásico está hecho con una mezcla de leche, azúcar, huevos y cacao, cocido hasta obtener una textura suave y cremosa. Servido con caramelo líquido y un toque de crema batida.",
+    "descripcion_resumida": "Flan cremoso de chocolate con caramelo y crema batida.",
+    "precio": 26900,
+    "categoria": "Postres",
+    "stock": 18
+  },
+  {
+    "id": 15,
+    "nombre": "Postre de maracuyá",
+    "link_imagen": "img/deepthi-clicks-P73PNR1Q8vs-unsplash.jpg",
+    "descripcion": "Postre exótico de maracuyá. Con una base de galleta crujiente y un relleno cremoso de maracuyá, este postre es una combinación perfecta de dulzura y acidez. Decorado con semillas de maracuyá y hojas de menta.",
+    "descripcion_resumida": "Postre de maracuyá con base de galleta y relleno cremoso.",
+    "precio": 37900,
+    "categoria": "Postres",
+    "stock": 22
+  },
+  {
+    "id": 16,
+    "nombre": "Pastel de bodas",
+    "link_imagen": "img/michael-twiss-jr-OzHWsXP833A-unsplash.jpg",
+    "descripcion": "Hermosa torta personalizada para bodas. Diseñada para ser el centro de atención de cualquier boda, esta torta puede personalizarse con múltiples capas, sabores y decoraciones según las preferencias de los novios.",
+    "descripcion_resumida": "Torta de bodas personalizada con múltiples capas y decoraciones.",
+    "precio": 250000,
+    "categoria": "Tortas Personalizadas",
+    "stock": 3
+  },
+  {
+    "id": 17,
+    "nombre": "Pastel de cumpleaños",
+    "link_imagen": "img/lcpv-studios-RWaVlwsir88-unsplash.jpg",
+    "descripcion": "Pastel especial para cumpleaños. Este pastel puede ser personalizado con el nombre y la edad del cumpleañero, así como con su sabor y color favoritos. Decorado con glaseado de crema de mantequilla y elementos festivos.",
+    "descripcion_resumida": "Pastel de cumpleaños personalizable con glaseado de mantequilla.",
+    "precio": 99900,
+    "categoria": "Tortas Personalizadas",
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "nombre": "Torta para fiestas especiales",
+    "link_imagen": "img/thomas-william-j4n1YIK0e9k-unsplash.jpg",
+    "descripcion": "Torta personalizada para cualquier fiesta especial. Esta torta puede adaptarse a cualquier temática, desde aniversarios hasta fiestas temáticas, con una amplia variedad de sabores y decoraciones disponibles.",
+    "descripcion_resumida": "Torta personalizable para fiestas temáticas y aniversarios.",
+    "precio": 139900,
+    "categoria": "Tortas Personalizadas",
+    "stock": 5
+  },
+  {
+    "id": 19,
+    "nombre": "Pastel de fiesta para niños",
+    "link_imagen": "img/james-lee-IYExyJnvJHw-unsplash.jpg",
+    "descripcion": "Divertido pastel para fiestas infantiles. Decorado con colores vibrantes y personajes de dibujos animados, este pastel es perfecto para hacer feliz a cualquier niño en su día especial. Disponible en varios sabores.",
+    "descripcion_resumida": "Pastel infantil decorado con personajes de dibujos animados.",
+    "precio": 79900,
+    "categoria": "Tortas Personalizadas",
+    "stock": 12
+  }
+]
+
