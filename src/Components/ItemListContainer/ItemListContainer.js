@@ -1,24 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-
-import productosJson from "../../productos.json";
 import ItemList from './ItemList';
 
-function asyncMock(categoryId) {
-    return new Promise((resolve, reject) => {
-        setTimeout(() => {
-            if (categoryId === undefined) {
-                resolve(productosJson);
-            }
-            else {
-                const productosFiltrados = productosJson.filter((item) => {
-                    return item.categoria===categoryId
-                })
-                resolve(productosFiltrados)
-            }
-        }, 2000)
-    })
-}
+import { asyncMock } from '../Helpers/Helpers';
+
 
 
 function ItemListContainer() {

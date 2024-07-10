@@ -25,14 +25,14 @@ function NavBar() {
                 <Link to="/contactanos">Contactanos</Link>
                 <div className="dropdown">
                     <button onClick={toggleDropdown} className='dropdown-toggle'>
-                    <Link to="/catalogo">Catalogo</Link>
+                    <Link to="/productos">Catalogo</Link>
                     </button>
                     {isDropdownOpen && (
                         <ul className='dropdown-menu'>
-                            <li><NavLink to="/catalogo/Tradicional" >Tradicionales</NavLink></li>
-                            <li><NavLink to="/catalogo/Refrigeradas" >Refrigeradas</NavLink></li>
-                            <li><NavLink to="/catalogo/Postres" >Postres</NavLink></li>
-                            <li><NavLink to="/catalogo/Tortas Personalizadas" >Personalizadas</NavLink></li>
+                            <li><NavLink to="/productos-categoria/Tradicional" >Tradicionales</NavLink></li>
+                            <li><NavLink to="/productos-categoria/Refrigeradas" >Refrigeradas</NavLink></li>
+                            <li><NavLink to="/productos-categoria/Postres" >Postres</NavLink></li>
+                            <li><NavLink to="/productos-categoria/Tortas Personalizadas" >Personalizadas</NavLink></li>
                         </ul>
                     )}
                 </div>
